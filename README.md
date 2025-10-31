@@ -67,7 +67,7 @@ This project builds predictive models to forecast **weekly sales** across Walmar
 
 ## Results
 
-⚠️ LightGBM achieved the best performance (lowest MAE & RMSE). Detailed results will be generated in `/results/model_performance_summary.csv` when running the notebook.
+⚠️ XGBoost achieved the best performance (lowest RMSE). Detailed results will be generated in `/results/model_performance_summary.csv` when running the notebook.
 
 ---
 
