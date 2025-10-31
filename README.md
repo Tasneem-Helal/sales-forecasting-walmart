@@ -85,9 +85,7 @@ pip install -r ../requirements.txt
 ```
 
 3. Run the notebook:
-```bash
-jupyter notebook src/Sales_Forecasting.ipynb
-```
+> Open `Sales_Forecasting.ipynb` from the `src` folder and execute the cells sequentially.
 
 ---
 
