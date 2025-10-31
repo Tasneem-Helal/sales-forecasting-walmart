@@ -86,7 +86,7 @@ pip install -r ../requirements.txt
 
 3. Run the notebook:
 ```bash
-jupyter notebook Sales_Forecasting.ipynb
+jupyter notebook src/Sales_Forecasting.ipynb
 ```
 
 ---
