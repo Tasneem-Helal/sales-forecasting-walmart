@@ -25,8 +25,6 @@ This project builds predictive models to forecast **weekly sales** across Walmar
 |- requirements.txt
 ```
 
-> ⚠️ Note: `model_performance_summary.csv` will be generated automatically after running the notebook.
-
 ---
 
 ## Tools & Libraries
